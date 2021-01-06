@@ -18,3 +18,8 @@ Repository with the code for the Findings of EMNLP 2020 [paper](https://www.aclw
         pages = "4479--4488",
         abstract = "There has been an increased interest in modelling political discourse within the natural language processing (NLP) community, in tasks such as political bias and misinformation detection, among others. Metaphor-rich and emotion-eliciting communication strategies are ubiquitous in political rhetoric, according to social science research. Yet, none of the existing computational models of political discourse has incorporated these phenomena. In this paper, we present the first joint models of metaphor, emotion and political rhetoric, and demonstrate that they advance performance in three tasks: predicting political perspective of news articles, party affiliation of politicians and framing of policy issues.",
     }
+
+        This research was funded by the H2020 project
+        Democratic Efficacy and the Varieties of Populism
+        in Europe (DEMOS) under H2020-EU.3.6.1.1. and
+        H2020-EU.3.6.1.2. (grant agreement ID: 822590).
